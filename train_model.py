@@ -10,6 +10,8 @@ from sklearn.preprocessing import OneHotEncoder
 #Load data
 data = pd.read_csv("data/penguins.csv")
 
+### Exploratory Data Analysis (EDA) ###
+
 #Visualize data
 #print(data.head())
 
